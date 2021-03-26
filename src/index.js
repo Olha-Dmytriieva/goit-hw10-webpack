@@ -14,8 +14,6 @@ const Theme = {
 
 
 
-  
-
 const bodyRef = document.querySelector('body');
 bodyRef.classList.add(`${Theme.LIGHT}`)
 
